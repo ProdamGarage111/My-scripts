@@ -1,0 +1,7 @@
+Hello, World!
+
+This is a sample text file created for demonstration purposes.
+You can use it to practice file permissions, editing, and other operations.
+
+Best regards,
+Your Friendly Bash Script
